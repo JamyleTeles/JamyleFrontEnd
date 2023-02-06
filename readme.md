@@ -1,0 +1,1 @@
+Este é um projeto simples, mas aqui eu utilizo algumas aspectos do flexbox, cujo qual estou dando maior atenção no momento.
